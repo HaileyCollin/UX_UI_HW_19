@@ -5,6 +5,14 @@
     color: white;
   }
 
+  .inline-block.themeChange.light-mode a {
+    color: white;
+}
+
+.inline-block.themeChange.dark-mode a {
+  color: white;
+}
+
   .logo {
     width: 23%;
     padding: 1%;
